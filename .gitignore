@@ -1,0 +1,20 @@
+# Compiled class file
+*.class
+
+# idea
+.idea
+*.iml
+**/target/**
+*.ipr
+*.iws
+out
+.DS_Store
+.mvn
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# log
+logs/
